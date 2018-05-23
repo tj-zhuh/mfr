@@ -1,0 +1,162 @@
+﻿[
+    {
+        "menuId": "1",
+        "menuName": "管理",
+        "folder": "manage",
+        "parentId": "root"
+    },
+    {
+        "menuId": "11",
+        "menuName": "文件管理",
+        "folder": "personal",
+        "parentId": "1"
+    },
+    {
+        "menuId": "111",
+        "menuName": "文本文档管理",
+        "folder": "text",
+        "parentId": "11",
+		"suspend": "1"
+    },
+    {
+        "menuId": "112",
+        "menuName": "图片管理",
+        "folder": "img",
+        "parentId": "11"
+    },
+    {
+        "menuId": "1121",
+        "menuName": "绘图",
+        "folder": "paint",
+        "parentId": "112",
+		"suspend": "1"
+    },
+    {
+        "menuId": "1122",
+        "menuName": "摄影",
+        "folder": "photo",
+        "parentId": "112",
+		"suspend": "1"
+    },
+    {
+        "menuId": "113",
+        "menuName": "音频管理",
+        "folder": "radio",
+        "parentId": "11"
+    },
+    {
+        "menuId": "114",
+        "menuName": "视频管理",
+        "folder": "video",
+        "parentId": "11"
+    },
+    {
+        "menuId": "12",
+        "menuName": "事件管理",
+        "folder": "event",
+        "parentId": "1"
+    },
+    {
+        "menuId": "13",
+        "menuName": "安全管理",
+        "folder": "safe",
+        "parentId": "1"
+    },
+    {
+        "menuId": "14",
+        "menuName": "生产管理",
+        "folder": "produce",
+        "parentId": "1"
+    },
+    {
+        "menuId": "15",
+        "menuName": "人员管理",
+        "folder": "people",
+        "parentId": "1"
+    },
+    {
+        "menuId": "16",
+        "menuName": "设备管理",
+        "folder": "device",
+        "parentId": "1"
+    },
+    {
+        "menuId": "17",
+        "menuName": "培训管理",
+        "folder": "training",
+        "parentId": "1"
+    },
+    {
+        "menuId": "18",
+        "menuName": "固定资产管理",
+        "folder": "item",
+        "parentId": "1"
+    },
+    {
+        "menuId": "19",
+        "menuName": "车辆管理",
+        "folder": "car",
+        "parentId": "1"
+    },
+    {
+        "menuId": "2",
+        "menuName": "监控",
+        "folder": "monitor",
+        "parentId": "root"
+    },
+    {
+        "menuId": "3",
+        "menuName": "系统",
+        "folder": "system",
+        "parentId": "root"
+    },
+    {
+        "menuId": "4",
+        "menuName": "柱状图",
+        "folder": "bar",
+        "parentId": "root"
+    },
+    {
+        "menuId": "5",
+        "menuName": "饼图",
+        "folder": "pie",
+        "parentId": "root"
+    },
+    {
+        "menuId": "6",
+        "menuName": "折线图",
+        "folder": "line",
+        "parentId": "root"
+    },
+    {
+        "menuId": "7",
+        "menuName": "交流",
+        "folder": "communication",
+        "parentId": "root"
+    },
+    {
+        "menuId": "8",
+        "menuName": "交流",
+        "folder": "communication",
+        "parentId": "root"
+    },
+    {
+        "menuId": "9",
+        "menuName": "交流",
+        "folder": "communication",
+        "parentId": "root"
+    },
+    {
+        "menuId": "10",
+        "menuName": "交流",
+        "folder": "communication",
+        "parentId": "root"
+    },
+    {
+        "menuId": "1a",
+        "menuName": "交流",
+        "folder": "communication",
+        "parentId": "root"
+    } 
+
+]

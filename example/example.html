@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <link href="example.css" rel="stylesheet" />
+    <link href="../dist/mfr.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="header">
+        <div class="title">mfr.js例子</div>    
+    </div>
+    <div class="mfr" id="mfr"></div> 
+    <ul class="board">
+        <li><label>当前选择的menuId：</label><span id="menuId"></span></li>
+        <li><label>当前选择的menuName：</label><span id="menuName"></span></li>
+        <li><label>当前菜单的level：</label><span id="level"></span></li>
+        <li><label>当前folder路径：</label><span id="folderPath"></span></li> 
+    </ul> 
+    <script>
+        console.log('---begin---');
+        console.log(new Date());
+    </script>
+    <script src="require.js" data-main="example"></script>
+</body>
+</html>

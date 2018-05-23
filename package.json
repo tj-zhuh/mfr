@@ -1,0 +1,18 @@
+{
+  "name": "mfr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "copy-webpack-plugin": "^4.0.1",
+    "webpack": "^2.6.1"
+  }
+}
